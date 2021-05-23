@@ -33,7 +33,7 @@ public class ch5_19_1 {
 			avg = sum/(float)score[i].length;
 			System.out.printf("%5d %5.1f%n",sum,avg);
 		}
-		System.out.println("=======================");
+		System.out.println("========================");
 		System.out.println("รัมก: " + KorTotal +" "+ EngTotal +" "+ MaTotal );
 	}
 
