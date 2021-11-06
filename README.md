@@ -1,2 +1,2 @@
 # JavaPractice
-JAVA self-studyㅓ
+JAVA self-study
